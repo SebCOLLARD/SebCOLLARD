@@ -2,7 +2,7 @@
 
 <div align="left">
   </a>
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://app.daily.dev/SebCOLLARD" target="_blank">
     <img
       width="256"
       align="right"
