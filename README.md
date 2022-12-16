@@ -13,6 +13,12 @@
 
 ## I am Sébastien Collard
 
-![Metrics](/github-metrics.svg)
+<a href="https://github.com/SebCOLLARD" target="_blank">
+    <img
+      src="./github-metrics.svg"
+    />
+</a>
+
+<!-- ![Metrics](/github-metrics.svg) -->
 
 <!-- Visit https://github.com/lowlighter/ -->
